@@ -74,10 +74,20 @@ li{
 }
 li:hover{
     background: #d9ee7e;
+
+}
+img{
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+
+
+
+
+
+
     
 }
-
-
 
 
   
