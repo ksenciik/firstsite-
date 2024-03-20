@@ -84,4 +84,36 @@ img{
 .img2{
       border-radius: 200px;
 }
-  
+  #container{
+    width:auto
+  }
+#header{
+height: 150px
+}
+#navigation{
+    height:40px
+}
+#content{
+float: left;
+width: 75%;
+height: 250px;
+}
+#sidbear{
+float: left;
+width: 75%;
+height: 250px;
+}
+#clear{
+    clear: both;
+}
+#footer{
+
+    margin-top: 4px;
+    height: 150px;
+}
+
+
+
+
+
+
