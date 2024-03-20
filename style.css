@@ -78,16 +78,10 @@ li:hover{
 }
 img{
     border-top-left-radius: 50px;
-    border-bottom-right-radius: 50px;
-
-
-
-
-
-
-
-    
+    border-bottom-right-radius: 50px; 
 }
 
-
+.img2{
+      border-radius: 200px;
+}
   
