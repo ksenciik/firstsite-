@@ -18,11 +18,11 @@ footer {
 
 main {
     padding: 10px;
-    background-color: aliceblue;
+    background-color: rgb(238, 210, 241);
 }
 
 .post {
-    background-color: antiquewhite;
+    background-color: rgb(250, 215, 245);
     padding: 20px;
     border-radius: 10px;
     margin-bottom: 20px;
@@ -82,7 +82,7 @@ main {
     text-transform: uppercase;
     height: 36px;
     box-sizing: border-box;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 
 #menu1 ul li ul {
@@ -91,7 +91,7 @@ main {
     left: 0px;
     display: none;
     width: 200px;
-    background: aquamarine;
+    background: rgb(248, 217, 241);
 }
 
 #menu1 ul li:hover ul {
