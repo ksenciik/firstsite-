@@ -113,3 +113,6 @@ main {
     border-top: 1px solid #e0e9af;
     color: antiquewhite;
 }
+.post p {
+    padding: 20px;
+}
